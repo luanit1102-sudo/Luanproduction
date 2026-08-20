@@ -1,0 +1,6 @@
+{
+  "name": "Bản đồ Địa giới, Con người & Đặc sản Điện Biên",
+  "description": "Cổng thông tin tương tác khám phá bản đồ địa giới hành chính, 19 dân tộc anh em, di tích lịch sử và đặc sản Điện Biên sau các đợt sắp xếp, sáp nhập đơn vị hành chính.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
